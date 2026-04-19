@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!DOCTYPE html>
+<html>
+  <head><title>我的个人网站</title></head>
+  <body>
+    <h1>欢迎来到我的主页</h1>
+    <img src="assets/images/photo.jpg" alt="我的照片" width="300">
+  </body>
+</html>
